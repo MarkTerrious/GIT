@@ -1,12 +1,15 @@
 # GIT
 
 초기설정 
+
 git config --global user.name _____
+
 git config --global user.email _____
 
 git config --global에서 --global을 빼면 로컬 설정이 된다.
 
 컬러 설정
+
 git config --global color.ui auto
 
 ______________________________________________
