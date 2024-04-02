@@ -8,6 +8,7 @@ git config --global에서 --global을 빼면 로컬 설정이 된다.
 
 컬러 설정
 git config --global color.ui auto
+
 ______________________________________________
 시작
 1. 프로젝트 폴더
@@ -16,11 +17,13 @@ ______________________________________________
 3. git remote add __(alias)__ __(remote address)__
 
  대부분 alias에는 origin을 넣는다.
+ 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 확인
 git remote -v  -> URL + 별칭(alias)등의 정보를 보여준다.
 git remote show __별칭__
 git log  -> 로그 확인
+
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 서버 통신
 git pull  -> 로컬 저장소로 원격 저장소 내용을 받는다.
