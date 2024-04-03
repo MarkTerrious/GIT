@@ -19,6 +19,7 @@ CRLF 문제 설정
 git config --global core.autocrlf true
 
 맥, 리눅스
+
 git config --global core.autocrlf input
 
 ______________________________________________
