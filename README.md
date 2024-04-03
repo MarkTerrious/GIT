@@ -11,6 +11,7 @@ git config --global에서 --global을 빼면 로컬 설정이 된다.
 컬러 설정
 
 git config --global color.ui auto
+______________________________________________
 
 CRLF 문제 설정
 
