@@ -12,6 +12,15 @@ git config --global에서 --global을 빼면 로컬 설정이 된다.
 
 git config --global color.ui auto
 
+CRLF 문제 설정
+
+윈도우 
+
+git config --global core.autocrlf true
+
+맥, 리눅스
+git config --global core.autocrlf input
+
 ______________________________________________
 
 시작
